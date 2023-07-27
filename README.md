@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [unique-000.github.com](unique-000.github.com)
 
-- 📫 How to reach me **unique0@duck.com**
+- 📫 How to reach me **unique0@duck.io** (Currently not availible)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
