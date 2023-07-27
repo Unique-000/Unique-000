@@ -1,7 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="1" d="M0,288L80,250.7C160,213,320,139,480,133.3C640,128,800,192,960,202.7C1120,213,1280,171,1360,149.3L1440,128L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
-- 👋 Hi, I’m @Unique-000
-- 👀 I’m 13 years old
-- 🌱 I’m currently improving my Python skills
+<h1 align="center">Hi 👋, I'm Unique-000</h1>
+<h3 align="center">A passionate frontend developer from Europe</h3>
+
+- 🌱 I’m currently learning **Python (currently Udemy course)**
+
+- 👨‍💻 All of my projects are available at [unique-000.github.com](unique-000.github.com)
+
+- 📫 How to reach me **unique0@duck.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 <!-- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...    
