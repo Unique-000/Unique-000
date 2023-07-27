@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Python (currently Udemy course)**
 
-- 👨‍💻 All of my projects are available at [unique-000.github.com](unique-000.github.com)
+- 👨‍💻 All of my projects are available at [unique-000.github.io](unique-000.github.io) (Currently not availible)
 
-- 📫 How to reach me **unique0@duck.io** (Currently not availible)
+- 📫 How to reach me **unique0@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
