@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python (currently Udemy course)**
 
-- 👨‍💻 All of my projects are available at <a href="unique-000.github.io"> [unique-000.github.io](unique-000.github.io) </a>(Currently not availible)
+- 👨‍💻 All of my projects are available at unique-000.github.io (Currently not availible)
 
 - 📫 How to reach me **unique0@duck.com**
 
