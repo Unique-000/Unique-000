@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Unique-000</h1>
 <h3 align="center">A passionate frontend developer from Europe</h3>
 
-- 🌱 I’m currently learning **Python (currently Udemy course)**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [unique-000.github.io](unique-000.github.io) (Currently not availible)
+- 👨‍💻 Most of my projects are available at [unique-000.github.io](unique-000.github.io)
 
 - 📫 How to reach me **unique0@duck.com**
 
