@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Unique-000</h1>
-- 🔭 I’m currently working on **Vault**
-- 🌱 I’m currently learning **Rust**
-
 - 📫 How to reach me **unique0@duck.com**
-- 👨‍💻 All of my projects are available at **unique-000.github.io**
 
 <div> <a href="https://github.com/Unique-000" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:unique0@duck.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
